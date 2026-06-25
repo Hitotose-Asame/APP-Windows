@@ -1,1 +1,13 @@
 # APP-Windows
+### Tool
+1. [搜狗输入法]()
+### Communication
+1. [QQ](https://im.qq.com/index/#/)
+2. [wechat](https://weixin.qq.com/)
+3. [腾讯会议](https://meeting.tencent.com/)
+### _G
+1. [oopz](https://oopz.cn/)
+2. [雷神](https://www.leigod.com/download)
+3. [steam](https://store.steampowered.com/about/)
+4. [无畏契约](https://val.qq.com/main.html)
+5. [FXsound](https://www.fxsound.com/download)
