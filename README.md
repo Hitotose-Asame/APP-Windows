@@ -9,6 +9,7 @@
 2. [夸克](https://b.quark.cn/apps/qkhomepage_twofoufeb/routes/model?entry=sem_inmobibingsempckk_brand_21&ch=sem_inmobibingsempckk_brand_21&image=brand&dp=&planid=484990713&unitid=1232553609768135&a_keywordid=77034948422254&a_creative=77034756350017&a_matchtype=e&a_keyword=%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98%5C&query=%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98&from=bingsem&aid=151708281&msclkid=0617230ec49b145cbd7749308fbaae5a)
 ### Tool
 1. [搜狗输入法](https://shurufa.sogou.com/windows)
+2. [snipaste](https://zh.snipaste.com/download.html)
 ### Communication
 1. [QQ](https://im.qq.com/index/#/)
 2. [wechat](https://weixin.qq.com/)
