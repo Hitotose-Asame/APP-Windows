@@ -4,6 +4,7 @@
 ### App
 1. [bili](https://app.bilibili.com/?spm_id_from=333.1007.0.0)
 2. [网易云](https://music.163.com/#/download)
+3. [telegram](https://desktop.telegram.org/)
 ### NetDisk
 1. [百度网盘](https://pan.baidu.com/disk/base/semdownload?utm_source=bingsem1&utm_medium=cpc&utm_account=SS-bingtg102&msclkid=ca330219b08013227fd56827aa7815fa)
 2. [夸克](https://b.quark.cn/apps/qkhomepage_twofoufeb/routes/model?entry=sem_inmobibingsempckk_brand_21&ch=sem_inmobibingsempckk_brand_21&image=brand&dp=&planid=484990713&unitid=1232553609768135&a_keywordid=77034948422254&a_creative=77034756350017&a_matchtype=e&a_keyword=%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98%5C&query=%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98&from=bingsem&aid=151708281&msclkid=0617230ec49b145cbd7749308fbaae5a)
