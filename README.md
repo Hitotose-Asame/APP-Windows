@@ -19,6 +19,7 @@
 1. [vscode](https://code.visualstudio.com/)
 2. [zotero](https://www.zotero.org/)
 3. [vs](https://visualstudio.microsoft.com/zh-hans/vs/)
+4. [飞书](https://www.feishu.cn/download)
 ## _G
 1. [oopz](https://oopz.cn/)
 2. [雷神](https://www.leigod.com/download)
