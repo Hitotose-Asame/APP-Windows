@@ -1,7 +1,8 @@
 # APP-Windows
 ## _C
-1.[git](https://git-scm.com/install/windows)
-2.[nodejs](https://nodejs.org/zh-cn/download)
+1. [git](https://git-scm.com/install/windows)
+2. [nodejs](https://nodejs.org/zh-cn/download)
+3. [chrome](https://www.google.com/intl/zh-CN/chrome/)
 ## _S
 ## _W
 ### App
